@@ -1,0 +1,151 @@
+test_id,test_name,je_id,detail
+T01,Unbalanced entry,JE102385,Debits 3880.73 vs credits 2900.86 (difference 979.87)
+T01,Unbalanced entry,JE102386,Debits 123393.00 vs credits 120268.60 (difference 3124.40)
+T01,Unbalanced entry,JE102387,Debits 149821.94 vs credits 145880.62 (difference 3941.32)
+T01,Unbalanced entry,JE102388,Debits 10582.10 vs credits 8006.30 (difference 2575.80)
+T01,Unbalanced entry,JE102389,Debits 225127.89 vs credits 223812.24 (difference 1315.65)
+T01,Unbalanced entry,JE102390,Debits 46490.27 vs credits 43388.76 (difference 3101.51)
+T02,Possible duplicate,JE100506,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE100603,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE100987,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE101047,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE101313,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE101582,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE101870,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102058,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102100,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102199,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102208,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102327,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102391,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102392,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102393,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102394,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102395,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102396,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102397,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102398,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102399,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102400,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102401,Identical to 1 other entry on the same date
+T02,Possible duplicate,JE102402,Identical to 1 other entry on the same date
+T03,Weekend posting,JE102301,Posted on Saturday 2025-08-30
+T03,Weekend posting,JE102302,Posted on Saturday 2026-06-13
+T03,Weekend posting,JE102303,Posted on Saturday 2026-04-18
+T03,Weekend posting,JE102304,Posted on Saturday 2026-02-14
+T03,Weekend posting,JE102305,Posted on Saturday 2025-09-13
+T03,Weekend posting,JE102306,Posted on Saturday 2026-02-07
+T03,Weekend posting,JE102307,Posted on Saturday 2026-05-02
+T03,Weekend posting,JE102308,Posted on Saturday 2025-11-15
+T03,Weekend posting,JE102309,Posted on Saturday 2025-11-08
+T03,Weekend posting,JE102310,Posted on Saturday 2026-05-09
+T03,Weekend posting,JE102311,Posted on Saturday 2026-05-09
+T03,Weekend posting,JE102312,Posted on Saturday 2026-02-14
+T03,Weekend posting,JE102313,Posted on Saturday 2026-01-31
+T03,Weekend posting,JE102314,Posted on Saturday 2026-03-07
+T03,Weekend posting,JE102319,Posted on Saturday 2026-03-21
+T03,Weekend posting,JE102414,Posted on Sunday 2026-06-28
+T03,Weekend posting,JE102415,Posted on Saturday 2026-06-27
+T03,Weekend posting,JE102416,Posted on Sunday 2026-06-28
+T04,Holiday posting,JE102315,Posted on Labour Day (2026-05-01)
+T04,Holiday posting,JE102316,Posted on Youm-e-Takbeer (2026-05-28)
+T04,Holiday posting,JE102317,Posted on Pakistan Day (2026-03-23)
+T04,Holiday posting,JE102318,Posted on Kashmir Solidarity Day (2026-02-05)
+T04,Holiday posting,JE102319,Posted on Eid ul-Fitr (2026-03-21)
+T05,After-hours entry,JE102320,Entered at 23:10
+T05,After-hours entry,JE102321,Entered at 23:23
+T05,After-hours entry,JE102322,Entered at 00:16
+T05,After-hours entry,JE102323,Entered at 00:08
+T05,After-hours entry,JE102324,Entered at 00:02
+T05,After-hours entry,JE102325,Entered at 23:14
+T05,After-hours entry,JE102326,Entered at 02:35
+T05,After-hours entry,JE102327,Entered at 23:39
+T05,After-hours entry,JE102328,Entered at 22:48
+T05,After-hours entry,JE102329,Entered at 00:27
+T05,After-hours entry,JE102330,Entered at 01:41
+T05,After-hours entry,JE102331,Entered at 00:17
+T05,After-hours entry,JE102402,Entered at 23:39
+T06,Backdated entry,JE102421,Entered 53 days after posting date 2026-01-06
+T06,Backdated entry,JE102422,Entered 52 days after posting date 2025-07-01
+T06,Backdated entry,JE102423,Entered 62 days after posting date 2026-05-13
+T06,Backdated entry,JE102424,Entered 71 days after posting date 2026-04-07
+T06,Backdated entry,JE102425,Entered 49 days after posting date 2026-05-15
+T06,Backdated entry,JE102426,Entered 76 days after posting date 2026-04-03
+T07,Large year-end manual entry,JE102333,PKR 500000.00 on 2026-06-25: Credit sale invoice
+T07,Large year-end manual entry,JE102411,PKR 1471959.47 on 2026-06-30: Year-end sales accrual
+T07,Large year-end manual entry,JE102412,PKR 1565502.54 on 2026-06-30: Year-end sales accrual
+T07,Large year-end manual entry,JE102413,PKR 893481.47 on 2026-06-29: Year-end sales accrual
+T07,Large year-end manual entry,JE102414,PKR 1171789.19 on 2026-06-28: Year-end sales accrual
+T07,Large year-end manual entry,JE102415,PKR 1888595.39 on 2026-06-27: Year-end sales accrual
+T07,Large year-end manual entry,JE102416,PKR 1152739.90 on 2026-06-28: Year-end sales accrual
+T08,Self-approved entry,JE102364,Hira Malik (U03) posted and approved own entry
+T08,Self-approved entry,JE102365,Hira Malik (U03) posted and approved own entry
+T08,Self-approved entry,JE102366,Usman Tariq (U04) posted and approved own entry
+T08,Self-approved entry,JE102367,Usman Tariq (U04) posted and approved own entry
+T08,Self-approved entry,JE102368,Hira Malik (U03) posted and approved own entry
+T08,Self-approved entry,JE102369,Usman Tariq (U04) posted and approved own entry
+T08,Self-approved entry,JE102370,Hira Malik (U03) posted and approved own entry
+T08,Self-approved entry,JE102371,Hira Malik (U03) posted and approved own entry
+T08,Self-approved entry,JE102372,Hira Malik (U03) posted and approved own entry
+T09,Manual entry not approved,JE102373,"Posted by Sana Khan, PKR 144638.99, no approver recorded"
+T09,Manual entry not approved,JE102374,"Posted by Sana Khan, PKR 1635.81, no approver recorded"
+T09,Manual entry not approved,JE102375,"Posted by Sana Khan, PKR 49131.82, no approver recorded"
+T09,Manual entry not approved,JE102376,"Posted by Sana Khan, PKR 5099.73, no approver recorded"
+T09,Manual entry not approved,JE102377,"Posted by Bilal Ahmed, PKR 48552.14, no approver recorded"
+T09,Manual entry not approved,JE102378,"Posted by Bilal Ahmed, PKR 497.01, no approver recorded"
+T09,Manual entry not approved,JE102379,"Posted by Sana Khan, PKR 1093.92, no approver recorded"
+T10,Above posting limit,JE102348,PKR 1000000.00 vs limit 500000.00 (Accountant)
+T10,Above posting limit,JE102360,PKR 1072877.93 vs limit 500000.00 (Accountant)
+T10,Above posting limit,JE102361,PKR 917535.46 vs limit 500000.00 (Accountant)
+T10,Above posting limit,JE102362,PKR 1302804.58 vs limit 500000.00 (Accountant)
+T10,Above posting limit,JE102363,PKR 869375.26 vs limit 500000.00 (Accountant)
+T11,Just below posting limit,JE102350,PKR 493764.94 is 98.8% of limit 500000.00
+T11,Just below posting limit,JE102351,PKR 496988.11 is 99.4% of limit 500000.00
+T11,Just below posting limit,JE102352,PKR 496886.20 is 99.4% of limit 500000.00
+T11,Just below posting limit,JE102353,PKR 490492.96 is 98.1% of limit 500000.00
+T11,Just below posting limit,JE102354,PKR 497809.68 is 99.6% of limit 500000.00
+T11,Just below posting limit,JE102355,PKR 494744.33 is 98.9% of limit 500000.00
+T11,Just below posting limit,JE102356,PKR 498074.23 is 99.6% of limit 500000.00
+T11,Just below posting limit,JE102357,PKR 492598.79 is 98.5% of limit 500000.00
+T11,Just below posting limit,JE102358,PKR 496559.98 is 99.3% of limit 500000.00
+T11,Just below posting limit,JE102359,PKR 490469.54 is 98.1% of limit 500000.00
+T12,Posted by terminated user,JE102380,Kamran Ali (U06) is marked Terminated; posted on 2026-06-10
+T12,Posted by terminated user,JE102381,Kamran Ali (U06) is marked Terminated; posted on 2026-06-15
+T12,Posted by terminated user,JE102382,Kamran Ali (U06) is marked Terminated; posted on 2026-04-16
+T12,Posted by terminated user,JE102383,Kamran Ali (U06) is marked Terminated; posted on 2026-04-27
+T12,Posted by terminated user,JE102384,Kamran Ali (U06) is marked Terminated; posted on 2026-03-26
+T13,Round amount,JE102332,PKR 500000.00
+T13,Round amount,JE102333,PKR 500000.00
+T13,Round amount,JE102334,PKR 250000.00
+T13,Round amount,JE102335,PKR 50000.00
+T13,Round amount,JE102336,PKR 200000.00
+T13,Round amount,JE102337,PKR 200000.00
+T13,Round amount,JE102338,PKR 150000.00
+T13,Round amount,JE102339,PKR 100000.00
+T13,Round amount,JE102340,PKR 100000.00
+T13,Round amount,JE102341,PKR 500000.00
+T13,Round amount,JE102342,PKR 150000.00
+T13,Round amount,JE102343,PKR 300000.00
+T13,Round amount,JE102344,PKR 150000.00
+T13,Round amount,JE102345,PKR 200000.00
+T13,Round amount,JE102346,PKR 100000.00
+T13,Round amount,JE102347,PKR 250000.00
+T13,Round amount,JE102348,PKR 1000000.00
+T13,Round amount,JE102349,PKR 100000.00
+T14,Suspicious description,JE102403,"Description: ""Adjustment per CFO"""
+T14,Suspicious description,JE102404,"Description: ""misc"""
+T14,Suspicious description,JE102405,"Description: ""Reverse later"""
+T14,Suspicious description,JE102406,"Description: ""Plug to balance"""
+T14,Suspicious description,JE102407,"Description: ""Override - urgent"""
+T14,Suspicious description,JE102408,"Description: ""adj"""
+T14,Suspicious description,JE102409,"Description: ""Correction"""
+T14,Suspicious description,JE102410,"Description: ""TBD"""
+T15,Revenue account debited,JE102403,Debit of PKR 21872.54 to Other Income: Adjustment per CFO
+T15,Revenue account debited,JE102406,Debit of PKR 206888.18 to Other Income: Plug to balance
+T15,Revenue account debited,JE102408,Debit of PKR 230097.47 to Other Income: adj
+T15,Revenue account debited,JE102409,Debit of PKR 236876.12 to Other Income: Correction
+T15,Revenue account debited,JE102410,Debit of PKR 443.37 to Other Income: TBD
+T15,Revenue account debited,JE102417,Debit of PKR 158899.93 to Sales Revenue: Revenue reclass
+T15,Revenue account debited,JE102418,Debit of PKR 63396.57 to Sales Revenue: Revenue reclass
+T15,Revenue account debited,JE102419,Debit of PKR 270666.95 to Sales Revenue: Revenue reclass
+T15,Revenue account debited,JE102420,Debit of PKR 549.91 to Sales Revenue: Revenue reclass

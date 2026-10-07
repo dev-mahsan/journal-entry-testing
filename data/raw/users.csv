@@ -1,0 +1,8 @@
+user_id,user_name,role,posting_limit_pkr,status
+U01,Sana Khan,Accountant,500000,Active
+U02,Bilal Ahmed,Accountant,500000,Active
+U03,Hira Malik,Senior Accountant,2000000,Active
+U04,Usman Tariq,Finance Manager,10000000,Active
+U05,Ayesha Raza,CFO,999999999,Active
+U06,Kamran Ali,Accountant,500000,Terminated
+SYS,System Batch,System,999999999,Active

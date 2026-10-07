@@ -1,0 +1,21 @@
+account_code,account_name,account_type
+1000,Cash at Bank,Asset
+1100,Accounts Receivable,Asset
+1200,Inventory,Asset
+1300,Prepaid Expenses,Asset
+1500,Property Plant & Equipment,Asset
+2000,Accounts Payable,Liability
+2100,Accrued Liabilities,Liability
+2200,Sales Tax Payable,Liability
+3000,Share Capital,Equity
+3100,Retained Earnings,Equity
+4000,Sales Revenue,Revenue
+4100,Other Income,Revenue
+5000,Cost of Goods Sold,Expense
+6000,Salaries Expense,Expense
+6100,Rent Expense,Expense
+6200,Utilities Expense,Expense
+6300,Marketing Expense,Expense
+6400,Travel Expense,Expense
+6500,Repairs & Maintenance,Expense
+6900,Miscellaneous Expense,Expense
